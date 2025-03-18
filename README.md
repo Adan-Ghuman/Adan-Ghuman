@@ -56,10 +56,11 @@
 
 <h3 align="left">📊 GitHub Stats:</h3>
 <p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=adan-ghuman&show_icons=true&theme=dark&locale=en" alt="adan-ghuman" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=adan-ghuman&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="adan-ghuman" />
 </p>
 
 <p align="left">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adan-ghuman&theme=dark" alt="adan-ghuman" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adan-ghuman&theme=dark&hide_border=false&count_private=true" alt="adan-ghuman" />
 </p>
+
 
