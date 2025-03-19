@@ -1,6 +1,11 @@
 # 💫 About Me:
-🔭 I’m currently working on MERN Stack Projects<br>🌱 I’m currently learning advanced MERN concepts<br>⚡ Fun fact: The MERN stack is like a pizza—<br>      MongoDB is the crust, <br>      Express.js is the sauce, <br>      React is the cheese, and <br>      Node.js is the oven that bakes it all together! 🍕🔥
-
+🔭 I’m currently working on MERN Stack Projects  
+🌱 I’m currently learning advanced MERN concepts  
+⚡ **Fun fact:** The MERN Stack is like a Pizza! 🍕🔥  
+   - 🍞 **MongoDB** – The crust that holds everything together (database).  
+   - 🍅 **Express.js** – The sauce that adds flavor (backend logic).  
+   - 🧀 **React** – The cheesy goodness that makes it look amazing (frontend UI).  
+   - 🔥 **Node.js** – The oven that bakes it all perfectly (server-side runtime).  
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adan_ghuman) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adan-ghuman-553740232) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adanghuman23@gmail.com) 
