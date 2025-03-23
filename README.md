@@ -1,7 +1,8 @@
 # 💫 About Me:
 🔭 I’m currently working on MERN Stack Projects  
 🌱 I’m currently learning advanced MERN concepts  
-⚡ **Fun fact:** The MERN Stack is like a Pizza! 🍕🔥  
+⚡ **Fun fact:** 
+   The MERN Stack is like a Pizza! 🍕🔥  
    - 🍞 **MongoDB** – The crust that holds everything together (database).  
    - 🍅 **Express.js** – The sauce that adds flavor (backend logic).  
    - 🧀 **React** – The cheesy goodness that makes it look amazing (frontend UI).  
