@@ -7,6 +7,7 @@
    - 🍅 **Express.js** – The sauce that adds flavor (backend logic).  
    - 🧀 **React** – The cheesy goodness that makes it look amazing (frontend UI).  
    - 🔥 **Node.js** – The oven that bakes it all perfectly (server-side runtime).  
+
 🔥I’m passionate about building scalable web and mobile applications, 
 🚀constantly exploring new technologies to enhance my skills.
 ## 🌐 Socials:
