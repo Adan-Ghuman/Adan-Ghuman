@@ -8,7 +8,7 @@
    - 🧀 **React** – The cheesy goodness that makes it look amazing (frontend UI).  
    - 🔥 **Node.js** – The oven that bakes it all perfectly (server-side runtime).  
 
-🔥I’m passionate about building scalable web and mobile applications, 
+🔥I’m a proactive individual who has passionate about building scalable web and mobile applications, 
 🚀constantly exploring new technologies to enhance my skills.
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adan_ghuman) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adan-ghuman-553740232) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adanghuman23@gmail.com) 
